@@ -1,0 +1,45 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 1rem;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	background-color: #1171a0;
+	padding: 1rem;
+	/* margin: 0 0 1rem 0; */
+}
+
+.nav-item {
+	margin: 0 1rem;
+	text-decoration: none;
+	font-size: 1.2em;
+	color: #fff;
+}
+
+.nav-item:hover {
+	color: #dcdc21;
+}
+
+.home {
+	margin: 0 0 1rem 0;
+	background-color: #b8e7fe;
+	padding: 5rem;
+}
+
+h1 {
+	margin: 0;
+}
+
+.about {
+	background-color: #b677e6;
+	padding: 5rem;
+	color: #fff;
+}
+.contact-us {
+	background-color: #b677e6;
+	padding: 5rem;
+	color: #fff;
+}
